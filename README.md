@@ -1,8 +1,9 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 * Software Engineering @ U Fidelitas, CR (2024)
-* Learning back-end skills:
-* * Using Java (Spring Boot), HTML, CSS, SQL and MongoDB
+* Learning back-end:
+* * Java (Spring Boot), HTML, CSS, SQL and MongoDB
+* * TODO: Node.js
 
 <hr>
 <h3 align="left">Profile Stats</h3>
