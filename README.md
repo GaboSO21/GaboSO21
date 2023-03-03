@@ -2,9 +2,8 @@
 
 * Software Engineering @ U Fidelitas, CR (2024)
 * I use NeoVim as my IDE of choice
-* Back-end skills:
-* * Java (Spring Boot), HTML, CSS, SQL and MongoDB
-* * TODO: Node.js
+* Skills:
+* * Java (Spring Boot), HTML, CSS, SQL, MongoDB and Node.js
 <div> 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html">
