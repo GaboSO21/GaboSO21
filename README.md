@@ -1,7 +1,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 * Software Engineering @ U Fidelitas, CR (2024)
-* I use NeoVim as my IDE of choice
+* I use NeoVim as IDE
 * Skills:
 * * Java (Spring Boot), HTML, CSS, SQL, MongoDB and Node.js
 <div> 
