@@ -17,8 +17,6 @@
 <hr>
 <h3 align="left">Profile Stats</h3>
 
-
-  ![Gabo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaboSO21&show_icons=true&theme=gruvbox&layout=compact)
   ![Gabo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaboSO21&theme=gruvbox&layout=compact)
 
 <hr>
