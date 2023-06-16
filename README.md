@@ -1,7 +1,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 * Software Engineering @ U Fidelitas, CR (2024)
-* I love 
+* I love programming and open source software, currently studying in Fidelitas University and invested in Back-End development and Data.
 * Tech:
 * * Python, Django, Flask, SQL, MongoDB, Node.js, Java, Spring, HTML & CSS 
 <div> 
