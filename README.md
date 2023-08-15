@@ -22,7 +22,7 @@ class Gabo:
         return self.name
         
     if __name__ == '__main__':
-      me = Gabo()
+        me = Gabo()
 ```
 
 <div> 
