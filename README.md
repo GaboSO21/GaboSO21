@@ -2,8 +2,29 @@
 
 * Software Engineering @ U Fidelitas, CR (2024)
 * I love programming and open source software, currently studying in Fidelitas University and invested in Back-End development and Data.
-* Tech:
-* * Python, Django, Flask, SQL, MongoDB, Node.js, Java, Spring, HTML & CSS 
+
+```python
+
+class Gabo:
+
+    def __init__(self):
+        self.username = 'GaboSO21'
+        self.name = 'Gabriel'
+        self.code = {
+            'frontend': ['HTML', 'CSS', 'Boostrap', 'JavaScript'],
+            'backend': ['Python', 'Django', 'Flask', 'Java', 'SpringBoot', 'NodeJS'],
+            'databases': ['MSSQL', 'MySQL', 'Postgres', 'Oracle PSSQL', 'Mongo'],
+            'tools': ['git', 'GitHub', 'shell-scripting', 'PowerBI', 'Excel'],
+            'os': ['Linux', 'MacOs', 'Windows'],
+        }
+
+    def __str__(self):
+        return self.name
+        
+    if __name__ == '__main__':
+      me = Gabo()
+```
+
 <div> 
 <hr>
   <img src="https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -18,7 +39,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Css">
   </div>
 <hr>
-
 
 <h3 align="left"> Social </h3>
 
