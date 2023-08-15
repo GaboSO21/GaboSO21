@@ -12,7 +12,7 @@ class Gabo:
         self.name = 'Gabriel'
         self.code = {
             'frontend': ['HTML', 'CSS', 'Boostrap', 'JavaScript'],
-            'backend': ['Python', 'Django', 'Flask', 'Java', 'SpringBoot', 'NodeJS'],
+            'backend': ['Python', 'Django', 'Flask', 'Java', 'SpringBoot', 'NodeJS', 'PHP'],
             'databases': ['MSSQL', 'MySQL', 'Postgres', 'Oracle PSSQL', 'Mongo'],
             'tools': ['git', 'GitHub', 'shell-scripting', 'PowerBI', 'Excel'],
             'os': ['Linux', 'MacOs', 'Windows'],
