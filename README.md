@@ -1,4 +1,4 @@
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## **About me**
 
 * Software Engineering @ U Fidelitas, CR (2024)
 * I love programming and open source software, currently studying in Fidelitas University and invested in Back-End development and Data.
@@ -20,8 +20,8 @@ class Gabo:
 
     def __str__(self):
         return self.name
-        
-    if __name__ == '__main__':
+
+if __name__ == '__main__':
         me = Gabo()
 ```
 
@@ -37,6 +37,7 @@ class Gabo:
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Css">
+    <img src="https://img.shields.io/badge/PHP-00000F?style=for-the-badge&logo=php&logoColor=white" alt="Php"
   </div>
 <hr>
 
